@@ -3,9 +3,7 @@ Machine-learning-assisted decoding of the surface code using Logistic Regression
 
 ## Project Overview
 
-This project investigates the application of machine learning techniques to quantum error correction, focusing on decoding the surface code.
-
-The objective is to study whether machine-learning-based decoders can identify logical errors from measured error syndromes and compare their performance with conventional decoding approaches.
+This project investigates the application of machine learning techniques to quantum error correction, focusing on decoding the surface code. The objective is to study whether machine-learning-based decoders can identify logical errors from measured error syndromes and compare their performance with conventional decoding approaches.
 
 ## Methods
 
